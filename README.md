@@ -30,3 +30,6 @@ javac -cp .:json-java.jar PhoneticTranscriber.java  # macOS/Linux
 
 java -cp .;json-java.jar PhoneticTranscriber        # Windows
 java -cp .:json-java.jar PhoneticTranscriber        # macOS/Linux
+
+Enter a word: language
+Phonetic: /ˈlæŋɡwɪdʒ/
